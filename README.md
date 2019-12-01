@@ -26,6 +26,6 @@ The app is completely offline and hence takes care privacy of the content.
 
 The games will be created mindful that everybody can play, the games will have voice commands to choose options.
 
-
-!(https://github.com/localplace/LED/blob/master/start.png)
-
+<img src="https://github.com/localplace/LED/blob/master/start.png" width="350" title="hover text">
+<img src="https://github.com/localplace/LED/blob/master/second.png" width="350" title="hover text">
+<img src="https://github.com/localplace/LED/blob/master/fillinblanks.png" width="350" title="hover text">
